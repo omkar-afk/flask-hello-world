@@ -9,3 +9,8 @@ def home():
 @app.route('/about')
 def about():
     return 'About'
+
+
+@app.route('/india')
+def about():
+    return 'Best country in the world'
