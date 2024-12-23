@@ -12,5 +12,5 @@ def about():
 
 
 @app.route('/india')
-def about():
+def india():
     return 'Best country in the world'
